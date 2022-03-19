@@ -11243,11 +11243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
+      "projectUniqueName": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
       "projectName": "Profile.Ui",
-      "projectPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
+      "projectPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
       "packagesPath": "C:\\Users\\Boro\\.nuget\\packages\\",
-      "outputPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\obj\\",
+      "outputPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11268,11 +11268,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj": {
-              "projectPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj"
+            "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj": {
+              "projectPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj"
             },
-            "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Infrastructure\\Profile.Infrastructure.csproj": {
-              "projectPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Infrastructure\\Profile.Infrastructure.csproj"
+            "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Infrastructure\\Profile.Infrastructure.csproj": {
+              "projectPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Infrastructure\\Profile.Infrastructure.csproj"
             }
           }
         }

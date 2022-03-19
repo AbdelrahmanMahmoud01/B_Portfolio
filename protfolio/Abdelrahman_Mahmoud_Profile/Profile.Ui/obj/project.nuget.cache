@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9cWmsCKaM+zfwaQslwflesK0IQFwEovvWMGeNm5nK15OlhiZzKckASlWM5govAoFdlnCzPKO6WjHi8/aGJjWw==",
+  "dgSpecHash": "+LSkWW5OgjnatV64r1spdrcy+3j2GvQGNf7OP7nxtiecX/Pnzhy0WWPoBhg8YoCILNlNEuskFSB8rq/UpDXmAg==",
   "success": true,
-  "projectFilePath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
+  "projectFilePath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Ui\\Profile.Ui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boro\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Boro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

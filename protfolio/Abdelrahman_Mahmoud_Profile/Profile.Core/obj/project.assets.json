@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj",
+      "projectUniqueName": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj",
       "projectName": "Profile.Core",
-      "projectPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj",
+      "projectPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\Profile.Core.csproj",
       "packagesPath": "C:\\Users\\Boro\\.nuget\\packages\\",
-      "outputPath": "D:\\main projects\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\obj\\",
+      "outputPath": "D:\\main projects\\my github projects\\B_Portfolio\\protfolio\\Abdelrahman_Mahmoud_Profile\\Profile.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,89 +8,89 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Profile.Ui
 build_property.RootNamespace = Profile.Ui
-build_property.ProjectDir = D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Ui\
+build_property.ProjectDir = D:\main projects\my github projects\B_Portfolio\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Ui\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Ui
+build_property.MSBuildProjectDirectory = D:\main projects\my github projects\B_Portfolio\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Ui
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Create.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Delete.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Edit.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Index.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Home/Index.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Mailing/SendMail.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Mailing/SendMail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGluZ1xTZW5kTWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Create.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Delete.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Details.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Edit.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Index.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Owner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Create.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Delete.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Edit.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Index.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Projects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/Error.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/_ViewImports.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/_ViewStart.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/main projects/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/_Layout.cshtml]
+[D:/main projects/my github projects/B_Portfolio/protfolio/Abdelrahman_Mahmoud_Profile/Profile.Ui/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3e91svxc22
