@@ -1,0 +1,13 @@
+﻿global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Profile.Core.Entites;
+global using Profile.Infrastructure;
+global using Profile.Ui.ViewModel.Owner;
+global using System.ComponentModel;
+global using Profile.Ui.Helpers;
+global using AutoMapper;
+global using Profile.Core.Interfaces;
+global using Profile.Ui.ViewModel.Projects;
+global using Profile.Ui.ViewModel.Home;
+global using Profile.Ui.ViewModel.OwnerAbout;

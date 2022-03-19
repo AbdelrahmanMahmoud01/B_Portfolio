@@ -1,0 +1,62 @@
+﻿@using Profile.Ui.ViewModel.Projects
+@model CreateProjectViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div  style="margin:160px; padding:120px;">
+    <h1>Create</h1>
+
+    <h4>Owner Info</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ProjectTitle" class="control-label"></label>
+                    <input autocomplete="off" asp-for="ProjectTitle" class="form-control" />
+                    <span asp-validation-for="ProjectTitle" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectDescription" class="control-label"></label>
+                    <input autocomplete="off" asp-for="ProjectDescription" class="form-control" />
+                    <span asp-validation-for="ProjectDescription" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SiteUrl" class="control-label"></label>
+                    <input autocomplete="off" asp-for="SiteUrl" class="form-control" />
+                    <span asp-validation-for="SiteUrl" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectGitHubLink" class="control-label"></label>
+                    <input autocomplete="off" asp-for="ProjectGitHubLink" class="form-control" />
+                    <span asp-validation-for="ProjectGitHubLink" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="UploadedPhoto" class="control-label"></label>
+                    <input autocomplete="off" type="file" asp-for="UploadedPhoto" accept=".png, .jpg" class="form-control" />
+                    <span asp-validation-for="UploadedPhoto" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+        <div id="poster-container" class="@("d-none")">
+            <img src="@(string.Empty)" alt="Poster" class="img-thumbnail" />
+        </div>
+    </div>
+    </div>
+
+    <div>
+        <a asp-action="Index"  class="btn btn-outline-dark">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+    <script src="~/js/site.js"></script>
+}

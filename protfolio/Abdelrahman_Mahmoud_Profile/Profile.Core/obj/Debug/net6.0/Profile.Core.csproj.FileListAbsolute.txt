@@ -1,0 +1,12 @@
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\bin\Debug\net6.0\Profile.Core.deps.json
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\bin\Debug\net6.0\Profile.Core.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\bin\Debug\net6.0\ref\Profile.Core.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\bin\Debug\net6.0\Profile.Core.pdb
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.AssemblyInfoInputs.cache
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.AssemblyInfo.cs
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.csproj.CoreCompileInputs.cache
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\ref\Profile.Core.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.pdb
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Core\obj\Debug\net6.0\Profile.Core.csproj.AssemblyReference.cache

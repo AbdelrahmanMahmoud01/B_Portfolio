@@ -1,0 +1,51 @@
+﻿@model CreateOwnerViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div  style="margin:160px; padding:120px;">
+    <h1>Create</h1>
+
+    <h4>Owner Info</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="FullName" class="control-label"></label>
+                    <input autocomplete="off" asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="JobDescription" class="control-label"></label>
+                    <input autocomplete="off" asp-for="JobDescription" class="form-control" />
+                    <span asp-validation-for="JobDescription" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="UploadedPhoto" class="control-label"></label>
+                    <input autocomplete="off" type="file" asp-for="UploadedPhoto" accept=".png, .jpg" class="form-control" />
+                    <span asp-validation-for="UploadedPhoto" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+        <div id="poster-container" class="@("d-none")">
+            <img src="@(string.Empty)" alt="Poster" class="img-thumbnail" />
+        </div>
+    </div>
+    </div>
+
+    <div>
+        <a asp-action="Index"  class="btn btn-outline-dark">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+    <script src="~/js/site.js"></script>
+}

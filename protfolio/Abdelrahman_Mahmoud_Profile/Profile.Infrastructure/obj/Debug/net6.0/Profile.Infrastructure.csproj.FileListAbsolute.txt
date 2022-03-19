@@ -1,0 +1,17 @@
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Infrastructure.deps.json
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Infrastructure.runtimeconfig.json
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Infrastructure.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\ref\Profile.Infrastructure.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Infrastructure.pdb
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Core.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\bin\Debug\net6.0\Profile.Core.pdb
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.csproj.AssemblyReference.cache
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.AssemblyInfoInputs.cache
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.AssemblyInfo.cs
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.csproj.CoreCompileInputs.cache
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.csproj.CopyComplete
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\ref\Profile.Infrastructure.dll
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.pdb
+D:\main projects\protfolio\Abdelrahman_Mahmoud_Profile\Profile.Infrastructure\obj\Debug\net6.0\Profile.Infrastructure.genruntimeconfig.cache

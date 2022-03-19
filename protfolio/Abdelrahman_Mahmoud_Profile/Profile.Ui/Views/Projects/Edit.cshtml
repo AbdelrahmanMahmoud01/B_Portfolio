@@ -1,0 +1,62 @@
+﻿@model UpdateProjectViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+    <div style="margin:160px; padding:120px;">
+        <h1>Edit</h1>
+
+        <h4>PortfolioItem</h4>
+        <hr />
+        <div class="row">
+            <div class="col-md-6">
+                <form asp-action="Edit" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="ProjectTitle" class="control-label"></label>
+                        <input autocomplete="off" asp-for="ProjectTitle" class="form-control" />
+                        <span asp-validation-for="ProjectTitle" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProjectDescription" class="control-label"></label>
+                        <input autocomplete="off" asp-for="ProjectDescription" class="form-control" />
+                        <span asp-validation-for="ProjectDescription" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SiteUrl" class="control-label"></label>
+                        <input autocomplete="off" asp-for="SiteUrl" class="form-control" />
+                        <span asp-validation-for="SiteUrl" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProjectGitHubLink" class="control-label"></label>
+                        <input autocomplete="off" asp-for="ProjectGitHubLink" class="form-control" />
+                        <span asp-validation-for="ProjectGitHubLink" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProjectPhotoUrl" class="control-label"></label>
+                        <input autocomplete="off" asp-for="UploadedPhoto" type="file" accept=".png, .jpg" class="form-control"/>
+                        <span asp-validation-for="ProjectPhotoUrl" class="text-danger"></span>
+                    </div>
+                    <input type="hidden" readonly asp-for="Id" />
+                    <input hidden readonly  asp-for="ProjectPhotoUrl" />
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-outline-dark">Back to List</a>
+
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-6">
+                <div id="poster-container">
+                    <img src="~/img/@Model.ProjectPhotoUrl" alt="Poster" class="img-thumbnail" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+    <script src="~/js/site.js"></script>
+}
